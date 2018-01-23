@@ -1,2 +1,2 @@
-# simplebash
+# Simplebash
 Simple Bash Scripts
